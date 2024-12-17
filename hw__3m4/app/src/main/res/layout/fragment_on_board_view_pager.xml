@@ -6,7 +6,7 @@
     android:background="@color/gray"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    tools:context=".OnBoardViewPagerFragment">
+    tools:context=".ui.fragment.OnBoardViewPagerFragment">
 
     <com.airbnb.lottie.LottieAnimationView
     android:id="@+id/lottie"
