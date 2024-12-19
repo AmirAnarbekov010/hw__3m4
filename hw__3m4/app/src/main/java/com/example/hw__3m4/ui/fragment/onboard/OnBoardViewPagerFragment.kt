@@ -1,4 +1,4 @@
-package com.example.hw__3m4.ui.fragment
+package com.example.hw__3m4.ui.fragment.onboard
 
 import android.os.Bundle
 import android.view.LayoutInflater
