@@ -1,0 +1,3 @@
+com.example.hw_7geeks.test
+style WhiteBackgroundDialogTheme
+style WhiteBackgroundTheme

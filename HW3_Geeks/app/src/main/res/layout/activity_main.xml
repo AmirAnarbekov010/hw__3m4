@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+
+    <!-- RecyclerView для континентов -->
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/recyclerViewContinents"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <!-- RecyclerView для стран -->
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/recyclerViewCountries"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <!-- RecyclerView для городов -->
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/recyclerViewCities"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <!-- Контейнер для фрагмента -->
+    <FrameLayout
+        android:id="@+id/fragment_container"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="16dp" />
+a
+
+</LinearLayout>

@@ -1,0 +1,5 @@
+com.example.hw_7geeks.test.app-core-1.6.1-0 C:\Users\ASUS\.gradle\caches\transforms-4\b8fe4d1a950bfaa65fd41ddf31cfdc13\transformed\core-1.6.1\res
+com.example.hw_7geeks.test.app-androidTest-1 C:\Users\ASUS\AndroidStudioProjects\hw_7geeks\app\build\generated\res\resValues\androidTest\debug
+com.example.hw_7geeks.test.app-mergeDebugAndroidTestResources-2 C:\Users\ASUS\AndroidStudioProjects\hw_7geeks\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.example.hw_7geeks.test.app-mergeDebugAndroidTestResources-3 C:\Users\ASUS\AndroidStudioProjects\hw_7geeks\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.example.hw_7geeks.test.app-debugAndroidTest-4 C:\Users\ASUS\AndroidStudioProjects\hw_7geeks\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources
